@@ -1,14 +1,14 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'NetMicroscope'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/nm_symbol.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop: "images/logo/nm_symbol.png"
+  desktop_height: "64px"
+  desktop_width: "64px"
 
 collections:
   services:
