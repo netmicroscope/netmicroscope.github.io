@@ -2,11 +2,11 @@
   {
     "name": "Github",
     "link": "https://github.com/netmicroscope",
-    "image": "images/social/github.svg"
+    "image": "images/social/github_blue.svg"
   },
   {
     "name": "Twitter",
     "link": "https://twitter.com/netmicroscope",
-    "image": "images/social/twitter.svg"
+    "image": "images/social/twitter_blue.svg"
   }
 ]
