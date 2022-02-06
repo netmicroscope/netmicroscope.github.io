@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: ''
 permalink: pretty
 title: 'NetMicroscope'
 
@@ -36,6 +36,8 @@ sass:
 plugins:
   - jekyll-environment-variables
 
+# Includes & excludes
+include: ['_pages']
 exclude:
   - Gemfile
   - Gemfile.lock
