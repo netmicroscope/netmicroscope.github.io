@@ -1,9 +1,13 @@
 ---
-title: "Business Advisory"
+title: "Performance Measurement"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 ---
+
+NetMicroscope
+can measure the performance of the network, visualize and monitor traffic patterns
+from your users and devices inside your network.
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
 ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
