@@ -4,9 +4,14 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/francesco.jpg"
 jobtitle: "CTO and Founder"
-linkedinurl: "https://www.linkedin.com/example2"
+linkedinurl: "https://www.linkedin.com/in/fbronzino"
 promoted: true
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Francesco Bronzino is an Assistant Professor in computer science at Université
+Savoie Mont Blanc. His research focuses broadly on leveraging emergent
+technologies to engineer software systems designed to measure and improve
+network service performance. Before joining USMB, he was a Research Scientist at
+Nokia Bell Labs as well as a Post-Doc in the MiMove group at Inria, Paris. He
+obtained a Ph.D. from WINLAB at Rutgers University.
