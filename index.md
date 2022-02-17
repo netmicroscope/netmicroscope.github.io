@@ -10,4 +10,4 @@ show_call_box: false
 
 # NetMicroscope
 
-Full-Stack Network Analytics some work
+Full-Stack Network Analytics
