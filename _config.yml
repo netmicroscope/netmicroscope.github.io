@@ -11,7 +11,7 @@ logo:
   desktop_width: "64px"
 
 collections:
-  services:
+  products:
     output: true
   team:
     output: true
@@ -19,7 +19,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "products"
     values:
       layout: "service"
   - scope:

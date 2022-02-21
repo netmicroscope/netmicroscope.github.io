@@ -2,6 +2,7 @@
 title: Product
 layout: services
 description: Product
+intro_image: false
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---

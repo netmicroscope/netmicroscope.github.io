@@ -8,6 +8,7 @@ linkedinurl: "https://www.linkedin.com/in/feamster/"
 promoted: true
 weight: 1
 layout: team
+short: Nick Feamster is Neubauer Professor of Computer Science and the Director of Research at the Data Science Institute (DSI) at the University of Chicago. His research focuses on network operations, network security, and censorship-resistant communication systems.
 ---
 
 Nick Feamster is Neubauer Professor of Computer Science and the Director of
