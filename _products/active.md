@@ -3,62 +3,76 @@ title: "Performance Measurement"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
+short: NetMicroscope can measure the performance of the network, visualize and monitor traffic patterns from your users and devices inside your network.
 ---
 
-NetMicroscope
-can measure the performance of the network, visualize and monitor traffic patterns
-from your users and devices inside your network.
+# Broadband Internet Service Benchmark
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+NetMicroscope include BISmark, the Broadband Internet Service Benchmark. This
+platform enables performing measurements of ISP performance, as well as traffic
+inside your network. You can use NetMicroscope and BISmark to measure the
+performance your network and ISP, visualize and monitor traffic patterns from
+your users and devices inside your network.
 
-## Inter pectore totidem
+## Publications
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
-
-## Novis hunc qua erat caecisque
-
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
-
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+<ul>
+    <li>
+    <em><a href="https://www.dropbox.com/s/sjun9cplnf1dyui/bismark-atc2014.pdf">BISmark: A Testbed for Deploying Measurements and Applications in Broadband Access Networks</a></em><br/>
+    S. Sundaresan, S. Burnett, N. Feamster, W. de Donato<br/>
+    To appear at <em>USENIX Annual Technical Conference</em><br/>
+    Philadelphia, Pennsylvania, USA. June 2014
+    </li>
+    <li>
+    <em><a href="http://www.cc.gatech.edu/~agupta80/pdfs/pam14.pdf">
+            Peering at the Internet’s Frontier: A First Look at ISP Interconnectivity in Africa</a></em><br/>
+    A. Gupta, M. Calder, N. Feamster, M. Chetty, E. Calandro, E. Katz-Bassett<br/>
+    <em>Passive and Active Measurement Conference</em><br/>
+    Los Angeles, California, USA. March 2014
+    </li>
+    <li>
+    <em><a href="http://www.cs.uwc.ac.za/~dev4/papers/a01-chetty.pdf">
+            Measuring Broadband Performance in South Africa</a></em><br/>
+    M. Chetty, S. Sundaresan, S. Muckaden, N. Feamster, Enrico Calandro<br/>
+    <em>ACM DEV</em><br/>
+    Cape Town, South Africa. December 2013
+    </li>
+    <li><em><a
+    href="http://conferences.sigcomm.org/imc/2013/papers/imc061-groverA.pdf">
+    Peeking Behind the NAT: An Empirical Study of Home Networks</a></em>
+    </br> S. Grover, M.S. Park, S. Sundaresan, S. Burnett, H. Kim, N. Feamster<br />
+    <em> ACM SIGCOMM Internet Measurement Conference</em><br /> Barcelona, Spain. 
+    October 2013 </li>
+    <li><em><a
+    href="http://conferences.sigcomm.org/imc/2013/papers/imc120-sundaresanA.pdf">
+    Measuring and Mitigating Web Performance Bottlenecks in Broadband Access 
+    Networks</a></em>
+    </br> S. Sundaresan, N. Feamster, R. Teixeira, N. Magharei<br />
+    <em> ACM SIGCOMM Internet Measurement Conference</em><br /> Barcelona, Spain. 
+    October 2013 </li>
+    <li><em><a
+    href="http://hal.upmc.fr/docs/00/83/50/36/PDF/paper.pdf">
+    Measuring home broadband performance</a></em>
+    </br>S.  Sundaresan, W. de Donato, N. Feamster, R. Teixeira, S.
+    Crawford, A. Pescape<br /><em>Communications of the ACM</em><br /> Volume 55,
+    Issue 11.  November 2012.</li>
+    <li><em><a
+    href="http://conferences.sigcomm.org/sigcomm/2011/papers/sigcomm/p134.pdf">
+    Broadband Internet Performance: A View From the Gateway</a></em>
+    </br>S.  Sundaresan, W. de Donato, N. Feamster, R. Teixeira, S.
+    Crawford, A. Pescape<br /><em>ACM SIGCOMM</em><br /> Toronto, Ontario,
+    Canada.  August 2011.</li>
+    <li><em><a
+    href="http://conferences.sigcomm.org/sigcomm/2011/papers/homenets/p13.pdf">
+    Helping Users Shop for ISPs with Internet Nutrition Labels</a></em>
+    <br />S. Sundaresan, N. Feamster, R. Teixeira, A. Tang, W.
+    Edwards, R. Grinter, M. Chetty, W. de Donato<br /><em>ACM SIGCOMM
+    HomeNets Workshop</em><br />Toronto, Ontario, Canada.  August 2011.
+    </li>
+    <li><em><a
+    href="http://www.sigcomm.org/sites/default/files/ccr/papers/2011/January/1925861-1925875.pdf">
+    Instrumenting Home Networks</a></em><br /> K. Calvert, W. K.  Edwards,
+    N. Feamster, R. Grinter, Y. Deng, X. Zhou<br /> <em>ACM SIGCOMM
+    Computer Communications Review</em><br /> Volume 41, Issue 1, January
+    2011.</li>
+</ul>

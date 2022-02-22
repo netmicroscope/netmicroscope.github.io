@@ -23,7 +23,7 @@ bodyClass: "page-services"
           <h2 class="service-title">
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
-          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ service.short | markdownify | strip_html }}</p>
         </div>
       </div>
     </div>
