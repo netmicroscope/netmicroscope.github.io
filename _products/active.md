@@ -8,7 +8,7 @@ short: NetMicroscope can measure the performance of the network, visualize and m
 
 # Broadband Internet Service Benchmark
 
-NetMicroscope include BISmark, the Broadband Internet Service Benchmark. This
+NetMicroscope includes BISmark, the Broadband Internet Service Benchmark. This
 platform enables performing measurements of ISP performance, as well as traffic
 inside your network. You can use NetMicroscope and BISmark to measure the
 performance your network and ISP, visualize and monitor traffic patterns from
