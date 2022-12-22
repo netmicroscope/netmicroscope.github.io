@@ -7,11 +7,11 @@ jobtitle: "CTO and Founder"
 linkedinurl: "https://www.linkedin.com/in/fbronzino"
 promoted: true
 weight: 2
-short: Francesco Bronzino is an Assistant Professor in computer science at Université Savoie Mont Blanc. His research focuses broadly on leveraging emergent technologies to engineer software systems designed to measure and improve network service performance.
+short: Francesco Bronzino is an Associate Professor in computer science at École normale supérieure in Lyon. His research focuses broadly on leveraging emergent technologies to engineer software systems designed to measure and improve network service performance.
 ---
 
-Francesco Bronzino is an Assistant Professor in computer science at Université
-Savoie Mont Blanc. His research focuses broadly on leveraging emergent
+Francesco Bronzino is an Assistant Professor in computer science at École normale supérieure in Lyon. 
+His research focuses broadly on leveraging emergent
 technologies to engineer software systems designed to measure and improve
 network service performance. Before joining USMB, he was a Research Scientist at
 Nokia Bell Labs as well as a Post-Doc in the MiMove group at Inria, Paris. He
