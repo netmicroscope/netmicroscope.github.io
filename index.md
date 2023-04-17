@@ -10,4 +10,4 @@ show_call_box: false
 
 # NetMicroscope
 
-Full-Stack Network Analytics. Monitor your network for poor user experience and correct problems before they become issues for your users.
+Monitor your network for poor user experience and correct problems before they become issues for your users.
