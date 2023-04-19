@@ -1,16 +1,7 @@
 [
   {
     "title": "Application Quality",
-    "description": "Monitor the quality of applications in your network.",
-    "image": {
-      "url": "images/features/noun-performance-4143965.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Performance Measurement",
-    "description": "Visualize and monitor traffic patterns from your users and devices.",
+    "description": "Understand the quality of applications in your network",
     "image": {
       "url": "images/features/noun-performance-2299450.svg",
       "width": 80,
@@ -18,8 +9,17 @@
     }
   },
   {
-    "title": "Encrypted Traffic Inference",
-    "description": "Inference of application quality from encrypted traffic.",
+    "title": "Network Analytics",
+    "description": "Monitor your network through a single pane of glass",
+    "image": {
+      "url": "images/features/noun-performance-4143965.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Network Automation",
+    "description": "Network AI operations to automate network management",
     "image": {
       "url": "images/features/noun-encryption-1871679.svg",
       "width": 80,
